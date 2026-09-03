@@ -1,0 +1,3 @@
+Non-printable bytes should be represented appropriately in the ASCII section rather than producing
+terminal control characters.
+The offset should be displayed in hexadecimal.
